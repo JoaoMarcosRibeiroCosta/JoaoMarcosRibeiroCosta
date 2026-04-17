@@ -30,9 +30,9 @@
 ---
 
 ### 🚀 Atualmente...
-- 🔭 Estou estagiando/estudando focado em **C# e .NET**.
+- 🔭 Estou estudando focado em **C# e .NET**.
 - 🌱 Aprendendo mais sobre arquitetura de sistemas e SQL Server.
-- 💬 Pergunte-me sobre Java ou desafios da UTFPR!
+
 
 ---
 
